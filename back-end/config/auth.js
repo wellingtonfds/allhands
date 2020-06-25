@@ -3,11 +3,6 @@
 /** @type {import('@adonisjs/framework/src/Env')} */
 const Env = use('Env')
 
-
-const providers = [
-  '@adonisjs/validator/providers/ValidatorProvider'
-]
-
 module.exports = {
   /*
   |--------------------------------------------------------------------------
